@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-In addition to my portfolio I also have 10+ years of experience with animations and effects. In the course of the years a Senior JavaScript became my genuine passion, so I'm well aware of web animations and able to create dozens of challenging technical solutions myself.
+In addition to my portfolio I also have 10+ years of experience with animations and effects. In the course of the years JavaScript became my genuine passion, so I'm well aware of web animations and able to create dozens of challenging technical solutions myself.
 
 Look through my stack:
 
@@ -14,6 +14,13 @@ Look through my stack:
 - Deep understanding of modern possibilities of web dev.
 
 Today I'm a co-founder and a part of Sborka Project Team, where we are dealing with front-end development and competitive websites. Check out here: https://sborkaproject.com/
+
+Some of my favorite works:
+http://baibakovartprojects.com/
+https://looi.co/
+http://aimiam.sborkademo.com/
+http://sborkademo.com/dto/
+http://crossproduction.ru/en/
 
 <!--
 **MichaelChistyakov/MichaelChistyakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
