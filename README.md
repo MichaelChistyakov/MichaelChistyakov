@@ -16,11 +16,11 @@ Look through my stack:
 Today I'm a co-founder and a part of Sborka Project Team, where we are dealing with front-end development and competitive websites. Check out here: https://sborkaproject.com/
 
 Some of my favorite works:
-http://baibakovartprojects.com/
-https://looi.co/
-http://aimiam.sborkademo.com/
-http://sborkademo.com/dto/
-http://crossproduction.ru/en/
+- http://baibakovartprojects.com/
+- https://looi.co/
+- http://aimiam.sborkademo.com/
+- http://sborkademo.com/dto/
+- http://crossproduction.ru/en/
 
 <!--
 **MichaelChistyakov/MichaelChistyakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
