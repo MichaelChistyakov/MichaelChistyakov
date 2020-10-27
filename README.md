@@ -16,6 +16,7 @@ Look through my stack:
 Today I'm a co-founder and a part of Sborka Project Team, where we are dealing with front-end development and competitive websites. Check out here: https://sborkaproject.com/
 
 Some of my favorite works:
+- https://infiniti-online.ru/
 - http://baibakovartprojects.com/
 - https://looi.co/
 - http://aimiam.sborkademo.com/
