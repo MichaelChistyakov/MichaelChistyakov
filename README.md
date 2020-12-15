@@ -23,8 +23,6 @@ Some of my favorite works:
 - http://sborkademo.com/dto/
 - http://crossproduction.ru/en/
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://thefwa.com/dyn/resources/Case_Model_Case/extra3Video/0/13220/1605880285/5fb7c9441b4e7infiniti876x548.mp4)
-
 <!--
 **MichaelChistyakov/MichaelChistyakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
