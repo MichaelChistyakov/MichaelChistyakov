@@ -8,20 +8,11 @@ Look through my stack:
 - WebGL shaders
 - Pure JS
 - GSAP products (TweenMax, Draggable etc.)
-- jQuery
 - Canvas 2D / 3D
 - History API, DeviceOrientation API,
 - Deep understanding of modern possibilities of web dev.
 
 Today I'm a co-founder and a part of Sborka Project Team, where we are dealing with front-end development and competitive websites. Check out here: https://sborkaproject.com/
-
-Some of my favorite works:
-- https://infiniti-online.ru/
-- http://baibakovartprojects.com/
-- https://looi.co/
-- http://aimiam.sborkademo.com/
-- http://sborkademo.com/dto/
-- http://crossproduction.ru/en/
 
 <!--
 **MichaelChistyakov/MichaelChistyakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
